@@ -1,0 +1,13 @@
+/Users/denismalkov/Documents/Unity Projects/Unity/ShootHoop/Temp/bin/Debug/UnityEngine.dll
+/Users/denismalkov/Documents/Unity Projects/Unity/ShootHoop/Temp/bin/Debug/UnityEditor.dll
+/Users/denismalkov/Documents/Unity Projects/Unity/ShootHoop/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/denismalkov/Documents/Unity Projects/Unity/ShootHoop/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/denismalkov/Documents/Unity Projects/Unity/ShootHoop/Temp/bin/Debug/Mono.Cecil.dll
+/Users/denismalkov/Documents/Unity Projects/Unity/ShootHoop/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/denismalkov/Documents/Unity Projects/Unity/ShootHoop/Temp/bin/Debug/Unity.DataContract.dll
+/Users/denismalkov/Documents/Unity Projects/Unity/ShootHoop/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/denismalkov/Documents/Unity Projects/Unity/ShootHoop/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/denismalkov/Documents/Unity Projects/Unity/ShootHoop/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/denismalkov/Documents/Unity Projects/Unity/ShootHoop/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/denismalkov/Documents/Unity Projects/Unity/ShootHoop/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/denismalkov/Documents/Unity Projects/Unity/ShootHoop/Temp/bin/Debug/Mono.Cecil.Mdb.dll
